@@ -1,0 +1,29 @@
+{
+  "myTask": [
+    {
+      "id": 1,
+      "item": "Code",
+      "checked": true
+    },
+    {
+      "id": 3,
+      "item": "Repeat",
+      "checked": true
+    },
+    {
+      "id": 4,
+      "checked": true,
+      "item": "React"
+    },
+    {
+      "id": 5,
+      "checked": true,
+      "item": "Summa"
+    },
+    {
+      "id": 6,
+      "checked": true,
+      "item": "Eat"
+    }
+  ]
+}
